@@ -1,0 +1,32 @@
+body{
+    
+    background-color: gray;
+     margin-top: 2px;
+ }
+ #image{
+     border: 10px dotted goldenrod;
+     padding: 20px 0 50px 0;
+     text-align: center;
+     color: yellow;
+     font-style: oblique;
+ }
+ 
+ #Angkor{
+     margin-top: 30px;
+     border: 2px solid goldenrod;
+     width: 50%;
+ }
+ span{
+     color: black;
+     background-color: rgb(212, 221, 160);
+ }
+ #Callnow{
+     color:rgb(0, 128, 75);
+     border: 5px ridge rgb(38, 24, 78);
+     background-color: black ;
+     width: 20%;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+ img{
+     width: 400px;
+ }
